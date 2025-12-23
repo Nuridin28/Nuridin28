@@ -20,7 +20,7 @@
 ```yaml
 name: Nuridin Nurman
 located_in: Kazakhstan, Almaty
-current_job: Frontend Developer
+current_job: Fullstack Developer
 
 fields_of_interests:
   [
@@ -30,7 +30,8 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Frontend Developer"
+    "Frontend Developer",
+    "Fullstack Developer"
   ]
 ```
   
